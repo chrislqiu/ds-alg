@@ -1,14 +1,3 @@
-/**
- * CS 251: Data Structures and Algorithms
- * Project 2: Part 3
- * <p>
- * TODO: Complete CustomerOrderQueue.
- *
- * @author: TODO
- * @username: TODO
- * @sources TODO: list your sources here
- */
-
 import java.security.NoSuchAlgorithmException;
 
 
@@ -268,5 +257,4 @@ public class BetterCustomerOrderQueue {
             }
         }
     }
-
 }
